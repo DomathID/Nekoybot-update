@@ -1,0 +1,36 @@
+{
+
+    "name": "modals",
+
+    "version": "1.0.0",
+
+    "main": "index.js",
+
+    "license": "MIT",
+
+    "scripts": {
+
+        "dev": "nodemon",
+
+        "start": "node ."
+
+    },
+
+    "dependencies": {
+
+        "discord.js": "^14.11.0",
+
+        "djs-commander": "^0.0.45",
+
+        "dotenv": "^16.1.1"
+
+    },
+
+    "devDependencies": {
+
+        "nodemon": "^2.0.22"
+
+    }
+
+}
+
